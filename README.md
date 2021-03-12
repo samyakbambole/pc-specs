@@ -22,6 +22,10 @@
 
 * Price - 4,924
 
+* [HyperX Fury 8GB 3200MHz DDR4 CL16 DIMM 1Rx8  Black XMP Desktop Memory](https://www.amazon.in/HyperX-3200MHz-Desktop-Memory-HX432C16FB3/dp/B07WJJ9CNG/ref=sr_1_1?crid=1KJRRA4BPPKDU&dchild=1&keywords=hyperx+fury+ddr4&qid=1615553448&sprefix=asus+wifi+%2Caps%2C393&sr=8-1)
+
+* Price - 4,084
+
 ## SSD
 
 * [Western Digital WD SN550 500GB NVMe Internal SSD - 2400MB/s R, 1750MB/s W, (WDS500G2B0C, Blue)](https://www.amazon.in/Western-Digital-SN550-Internal-WDS500G2B0C/dp/B07YFF3JCN/ref=sr_1_1_sspa?crid=3IWJNGG0JPLIX&dchild=1&keywords=m.2+ssd+1tb&qid=1615537219&sprefix=m.2+%2Caps%2C376&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRTQ4WTlLQ0dEM0U4JmVuY3J5cHRlZElkPUEwODM2MjU0M1RVTTZPV1JROVZLNCZlbmNyeXB0ZWRBZElkPUEwMTI5OTIxM0RDMUZTVkYxQzFZNCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
