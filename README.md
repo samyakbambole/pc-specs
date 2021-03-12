@@ -2,7 +2,7 @@
 
 ## Processor
 
-* [Intel® Core™ i5-9400F Processor (9M Cache, up to 4.10 GHz)](https://www.amazon.in/Intel-Corporation-Generation-Processor-Graphics/dp/B07MRCGQQ4/ref=sr_1_6?crid=CU1AYI4Q7SE7&dchild=1&keywords=intel+graphics+card&qid=1615537910&s=computers&sprefix=intel+graphic%2Ccomputers%2C297&sr=1-6) 
+* [Intel® Core™ i5-9400F Processor (9M Cache, up to 4.10 GHz)](https://www.amazon.in/Intel-Corporation-Generation-Processor-Graphics/dp/B07MRCGQQ4/ref=sr_1_6?crid=CU1AYI4Q7SE7&dchild=1&keywords=intel+graphics+card&qid=1615537910&s=computers&sprefix=intel+graphic%2Ccomputers%2C297&sr=1-6) **GRAPHICS CARD REQUIRED**
 
 * Price - 11,368
 
