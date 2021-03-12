@@ -32,12 +32,20 @@
 
 * Price - 5,002
 
-## Total Price 
+## Mouse
 
-#### With Intel Processor - 
+* [Logitech G102 Light Sync Gaming Mouse with Customizable RGB Lighting, 6 Programmable Buttons, Gaming Grade Sensor, 8 k dpi Tracking,16.8mn Color, Light Weight (Black)](https://www.amazon.in/Logitech-G102-Customizable-Lighting-Programmable/dp/B08LT9BMPP/ref=sr_1_1_sspa?crid=1KJRRA4BPPKDU&dchild=1&keywords=logitech+g102&qid=1615557309&sprefix=asus+wifi+%2Caps%2C393&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUhRUDRSWjY4UDE1JmVuY3J5cHRlZElkPUEwOTM5ODY0MzcxTjBKWEdRUEUwRyZlbmNyeXB0ZWRBZElkPUEwNTU4MjQyM0RVNDg0UlFLWEVNRCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
-* Price - 25,643 
+* Price - 1,649
 
-#### With AMD Ryzen Processor - 
+## Monitor
 
-* Price - 24,278
+* [Acer 21.5 Inch Full HD IPS Ultra Slim (6.6mm Thick) Monitor I Frameless Design I AMD Free Sync I Eye Care Features I Stereo Speakers](https://www.amazon.in/Acer-HA220Q-21-5-inch-Ultra-Monitor/dp/B07JDH2C8X/ref=sr_1_1?dchild=1&keywords=21+inch+monitor&qid=1615557367&sr=8-1)
+
+* Price - 7,999
+
+## Case / Cabinet
+
+* [Zebronics Zeb-Cronus Premium Gaming Cabinet with Mirror Finish Tempered Glass On Front,Tempered Glass On Side & 4 x120mm Rainbow Double Ring LED Fans](https://www.amazon.in/Zebronics-Zeb-Cronus-Cabinet-Tempered-Rainbow/dp/B07ZQG2WSC/ref=sr_1_2?dchild=1&keywords=zebronics+pc+case&qid=1615557434&sr=8-2)
+
+* Price - 2,369
