@@ -44,6 +44,10 @@
 
 * Price - 7,999
 
+* [Lenovo 54.6 cm (21.5 inch) Near Edgeless Monitor with LED Display, VA Panel, AMD Free Synch, HDMI and VGA inputs, TUV Certified Eye Comfort - L22e-20 (Raven Black)](https://www.amazon.in/Lenovo-L22e-20-Monitor-Display-inputs/dp/B07SGDWMCG/ref=sr_1_4?dchild=1&keywords=21+inch+monitor&qid=1615632319&refinements=p_36%3A-800000&rnid=1318502031&sr=8-4)
+
+* Price - 7,290
+
 ## Case / Cabinet
 
 * [Zebronics Zeb-Cronus Premium Gaming Cabinet with Mirror Finish Tempered Glass On Front,Tempered Glass On Side & 4 x120mm Rainbow Double Ring LED Fans](https://www.amazon.in/Zebronics-Zeb-Cronus-Cabinet-Tempered-Rainbow/dp/B07ZQG2WSC/ref=sr_1_2?dchild=1&keywords=zebronics+pc+case&qid=1615557434&sr=8-2)
