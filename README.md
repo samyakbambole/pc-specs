@@ -18,6 +18,8 @@
 
 * [MSI H310M PRO M2 Plus mATX Motherboard (9th / 8th Gen Intel Core,LGA 1151 Socket, DDR4, M.2 and NVMe,DVI-D/VGA/HDMI)](https://www.amazon.in/dp/B07MFXFBMZ/ref=cm_sw_r_wa_apa_fabc_BQZZAMHG6B97NGTKR164)
 
+* Price - 4,925
+
 ## RAM 
 
 * [Corsair Vengeance RGB Pro 8GB (1x8GB) DDR4 3200 (PC4-25600) C16 Optimized for AMD Ryzen – Black](https://www.amazon.in/CORSAIR-Vengeance-PC4-25600-Optimized-Ryzen-Black/dp/B08D6G8MS5/ref=as_li_ss_tl?crid=25JEVD4RHK5QW&dchild=1&keywords=corsair+vengeance+8gb+rgb+ram&qid=1602508361&sprefix=CORSAIR+Vengeance+8GB+RGB,computers,324&sr=8-3&linkCode=sl1&tag=shadabamazona-21&linkId=dfc69dc1a76f326e0f0f732cc477a54a&language=en_IN)
