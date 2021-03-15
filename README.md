@@ -58,6 +58,14 @@
 
 * Price - 2,369
 
+* [CHIPTRONEX X410B Mid Tower ATX Cabinet USB 3.0 (case Without SMPS)](https://www.amazon.in/CHIPTRONEX-X410B-GAMING-CABINET-WITHOUT/dp/B07D2BB1L4/ref=sr_1_3?dchild=1&keywords=gaming+PC+cabinet&qid=1615790975&refinements=p_36%3A-300000&rnid=1318502031&sr=8-3)
+
+* Price - 2,099
+
+* [Ant Esports ICE-130AG Mid Tower Computer Case I Gaming Cabinet Supports ATX, Micro-ATX, Mini-ITX Motherboard with Transparent Side Panel 1 x 120 mm Rear Fan Preinstalled - Black](https://www.amazon.in/Ant-Esports-ICE-130AG-Motherboard-Preinstalled/dp/B08D6G6LMK/ref=sr_1_1_mod_primary_lightning_deal?dchild=1&keywords=gaming+PC+cabinet&qid=1615790975&refinements=p_36%3A-300000&rnid=1318502031&sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&smid=A14CZOWI0VEHLG&sr=8-1)
+
+* Price - 2,671
+
 ## Graphics Card **OPTIONAL**
 
 * [Gigabyte GeForce GT 710 2GB Graphic Cards Support PCI Express 2.0 X8 Bus Interface. Graphic Cards GV-N710D5-2GL](https://www.amazon.in/Gigabyte-GeForce-Graphic-Interface-GV-N710D5-2GL/dp/B073SWN4ZM/ref=sr_1_1?dchild=1&keywords=gigabyte+geforce+gt&qid=1615787879&sr=8-1)
