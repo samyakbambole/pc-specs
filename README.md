@@ -57,3 +57,9 @@
 * [Zebronics Zeb-Cronus Premium Gaming Cabinet with Mirror Finish Tempered Glass On Front,Tempered Glass On Side & 4 x120mm Rainbow Double Ring LED Fans](https://www.amazon.in/Zebronics-Zeb-Cronus-Cabinet-Tempered-Rainbow/dp/B07ZQG2WSC/ref=sr_1_2?dchild=1&keywords=zebronics+pc+case&qid=1615557434&sr=8-2)
 
 * Price - 2,369
+
+## Graphics Card **OPTIONAL**
+
+* [Gigabyte GeForce GT 710 2GB Graphic Cards Support PCI Express 2.0 X8 Bus Interface. Graphic Cards GV-N710D5-2GL](https://www.amazon.in/Gigabyte-GeForce-Graphic-Interface-GV-N710D5-2GL/dp/B073SWN4ZM/ref=sr_1_1?dchild=1&keywords=gigabyte+geforce+gt&qid=1615787879&sr=8-1)
+
+* Price - 3,699
