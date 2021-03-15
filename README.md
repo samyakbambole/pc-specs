@@ -74,7 +74,7 @@
 
 ## WiFi Adapter **OPTIONAL**
 
-* [TP-Link AC1200 Wireless WiFi PCIe Card | 2.4G/5G Dual Band Wi-Fi PCI Express Adapter | Low Profile, Long Range Beamforming Heat Sink Technology | Supports Windows 10/8.1/8/7/XP (Archer T4E)](amazon.in/TP-Link-TL-WN781ND-150Mbps-Wireless-Express/dp/B07MDH8HV4?crid=24SF5PT2MJCG9&dchild=1&keywords=tp%2Blink%2Bwifi%2Badapter&qid=1612690845&sprefix=tp%2Blink,aps,318&sr=8-6&th=1&linkCode=sl1&tag=sarthak025-21&linkId=855848ecfe216e5ee407fced650a4aec&language=en_IN&ref_=as_li_ss_tl)
+* [TP-Link AC1200 Wireless WiFi PCIe Card | 2.4G/5G Dual Band Wi-Fi PCI Express Adapter | Low Profile, Long Range Beamforming Heat Sink Technology | Supports Windows 10/8.1/8/7/XP (Archer T4E)](https://amazon.in/TP-Link-TL-WN781ND-150Mbps-Wireless-Express/dp/B07MDH8HV4?crid=24SF5PT2MJCG9&dchild=1&keywords=tp%2Blink%2Bwifi%2Badapter&qid=1612690845&sprefix=tp%2Blink,aps,318&sr=8-6&th=1&linkCode=sl1&tag=sarthak025-21&linkId=855848ecfe216e5ee407fced650a4aec&language=en_IN&ref_=as_li_ss_tl)
 
 * Price - 1,449
 
