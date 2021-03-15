@@ -58,7 +58,7 @@
 
 * Price - 2,369
 
-* [CHIPTRONEX X410B Mid Tower ATX Cabinet USB 3.0 (case Without SMPS)](https://www.amazon.in/CHIPTRONEX-X410B-GAMING-CABINET-WITHOUT/dp/B07D2BB1L4/ref=sr_1_3?dchild=1&keywords=gaming+PC+cabinet&qid=1615790975&refinements=p_36%3A-300000&rnid=1318502031&sr=8-3)
+* [CHIPTRONEX X410B Mid Tower ATX Cabinet USB 3.0 (case Without SMPS)](https://www.amazon.in/CHIPTRONEX-X410B-GAMING-CABINET-WITHOUT/dp/B07D2BB1L4/ref=sr_1_3?dchild=1&keywords=gaming+PC+cabinet&qid=1615790975&refinements=p_36%3A-300000&rnid=1318502031&sr=8-3) **EXTRA FANS NEEDED FOR FRONT**
 
 * Price - 2,099
 
