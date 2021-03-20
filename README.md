@@ -77,3 +77,9 @@
 * [TP-Link TL-WN781ND 150Mbps Wireless N PCI Express Adapter | 2dBi Detachable Omni Directional (RP-SMA) | Compatible with Windows 8.1/8/ 7/ Vista/XP (32/64bits)](https://www.amazon.in/TP-Link-TL-WN781ND-150Mbps-Wireless-Express/dp/B0036AFAEW?crid=24SF5PT2MJCG9&dchild=1&keywords=tp%2Blink%2Bwifi%2Badapter&qid=1612690845&sprefix=tp%2Blink,aps,318&sr=8-6&th=1&linkCode=sl1&tag=sarthak025-21&linkId=943147b53e1b15a44c78d6e8ee4edaf1&language=en_IN&ref_=as_li_ss_tl)
 
 * Price - 549
+
+## PSU
+
+* [Cooler Master MWE 450 Bronze V2 230v, 80 Plus Bronze Certified, Non-Modular Power Supply (Black)](https://www.amazon.in/Cooler-Master-Bronze-Certified-Non-Modular/dp/B08GTF8224/ref=sr_1_1?dchild=1&keywords=cooler+master+psu&qid=1616213807&sr=8-1)
+
+* Price - 2,910
