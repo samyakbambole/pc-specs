@@ -80,10 +80,6 @@
 
 ## PSU
 
-* [Cooler Master MWE 450 Bronze V2 230v, 80 Plus Bronze Certified, Non-Modular Power Supply (Black)](https://www.amazon.in/Cooler-Master-Bronze-Certified-Non-Modular/dp/B08GTF8224/ref=sr_1_1?dchild=1&keywords=cooler+master+psu&qid=1616213807&sr=8-1)
-
-* Price - 2,910
-
 * [Antec VP450P Plus 450 Watt Power Supply 85% efficient I 80 Plus 230V Standard Certified](https://www.amazon.in/Antec-VP450P-Plus-efficient-Certified/dp/B00006HS81?crid=33VTWGLDD75GM&dchild=1&keywords=antec+450+watt+power+supply&qid=1614147706&sprefix=Antec+,aps,495&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQldCNU45U1BVQUdFJmVuY3J5cHRlZElkPUEwMjM0MjE3MUo4VTZVVkpOUUtXRCZlbmNyeXB0ZWRBZElkPUEwMzk5MTg4MkQ4QkJGUjdXR0Q5OCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=sl1&tag=shadabamazona-21&linkId=be449d5ad278a8388d66eb4bfd83eacb&ref_=as_li_ss_tl)
 
 * Price - 2,570
