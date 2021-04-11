@@ -23,3 +23,10 @@
 #links {
      text-align: center;
 }
+
+@media only screen and (max-width: 1140px) {
+     #app {
+          margin-left: 0cm;
+          margin-right: 0cm;
+     }
+}
