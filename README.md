@@ -60,6 +60,10 @@
 
 * Price - 2,570
 
+* [Cooler Master MWE 550 Bronze V2 230v, 80 Plus Bronze Certified, Non-Modular Power Supply – Black](https://www.amazon.in/Cooler-Master-Bronze-Certified-Non-Modular/dp/B08H5QR9FL/ref=sr_1_4?dchild=1&m=A15QBXMPB6G12C&marketplaceID=A21TJRUUN4KGV&qid=1618909774&s=merchant-items&sr=1-4)
+
+* Price - 4,099
+
 ## HDMI Cable
 
 * [AmazonBasics High-Speed HDMI Cable, 3 Feet - Supports Ethernet, 3D, 4K video,Black](https://www.amazon.in/AmazonBasics-High-Speed-HDMI-Cable-Feet/dp/B014I8SIJY/ref=sr_1_1_sspa?adgrpid=64441315892&dchild=1&ext_vrnc=hi&gclid=Cj0KCQjwsLWDBhCmARIsAPSL3_2japHpsblpHYw3qesM3OCWJRJtuTcvwmjfpkE0OvXPPBIcDi2tfgUaAiAvEALw_wcB&hvadid=397847416688&hvdev=c&hvlocphy=9301185&hvnetw=g&hvqmt=e&hvrand=18326763321827074053&hvtargid=kwd-298674423067&hydadcr=18845_1970924&keywords=hdmi+to+hdmi+cable&qid=1617789919&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFKN00yNUJLUVlFUVYmZW5jcnlwdGVkSWQ9QTA5MzUwOTcyTVlPRk5WTTM0QUdGJmVuY3J5cHRlZEFkSWQ9QTA5NzMwMzkzNVdBTEdQNzQ5VVY4JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
