@@ -65,3 +65,13 @@
 * [AmazonBasics High-Speed HDMI Cable, 3 Feet - Supports Ethernet, 3D, 4K video,Black](https://www.amazon.in/AmazonBasics-High-Speed-HDMI-Cable-Feet/dp/B014I8SIJY/ref=sr_1_1_sspa?adgrpid=64441315892&dchild=1&ext_vrnc=hi&gclid=Cj0KCQjwsLWDBhCmARIsAPSL3_2japHpsblpHYw3qesM3OCWJRJtuTcvwmjfpkE0OvXPPBIcDi2tfgUaAiAvEALw_wcB&hvadid=397847416688&hvdev=c&hvlocphy=9301185&hvnetw=g&hvqmt=e&hvrand=18326763321827074053&hvtargid=kwd-298674423067&hydadcr=18845_1970924&keywords=hdmi+to+hdmi+cable&qid=1617789919&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFKN00yNUJLUVlFUVYmZW5jcnlwdGVkSWQ9QTA5MzUwOTcyTVlPRk5WTTM0QUdGJmVuY3J5cHRlZEFkSWQ9QTA5NzMwMzkzNVdBTEdQNzQ5VVY4JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 * Price - 279
+
+## AUX / Audio Cable (to connect to monitor)
+
+* [AmazonBasics Male to Male Stereo Audio Aux Cable with Gold Plated Connectors- 4 Feet](https://www.amazon.in/AmazonBasics-Male-Stereo-Audio-Cable/dp/B00NO73MUQ/ref=sr_1_2_sspa?crid=2L8J2N6YMX2QM&dchild=1&keywords=male%2Baux%2Bto%2Bfemale%2Baux&qid=1618899519&sprefix=male%2Baux%2Bto%2Bfemle%2Caps%2C286&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQzdWSjJUNkFONkYmZW5jcnlwdGVkSWQ9QTAzNzcxMTAxNklWRExUSTVJTjY5JmVuY3J5cHRlZEFkSWQ9QTA0Njg1MDcxVERaV0c2UDhNM1dRJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)
+
+* Price - 429
+
+* [boAt Indestructible 3.5mm Male to Male Gold Plated Connectors, Metallic Aux Audio Cable, 1.5 Meter (5 Feet) -(Silver Metallic)](https://www.amazon.in/Boat-Indestructible-Plated-Connectors-Metallic/dp/B00SH5JAIS/ref=sr_1_3?dchild=1&keywords=male+aux+to+male+aux&qid=1618899639&sr=8-3)
+
+* Price - 299
