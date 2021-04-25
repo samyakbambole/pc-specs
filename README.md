@@ -72,10 +72,18 @@
 
 ## AUX / Audio Cable (to connect to monitor)
 
-* [AmazonBasics Male to Male Stereo Audio Aux Cable with Gold Plated Connectors- 4 Feet](https://www.amazon.in/AmazonBasics-Male-Stereo-Audio-Cable/dp/B00NO73MUQ/ref=sr_1_2_sspa?crid=2L8J2N6YMX2QM&dchild=1&keywords=male%2Baux%2Bto%2Bfemale%2Baux&qid=1618899519&sprefix=male%2Baux%2Bto%2Bfemle%2Caps%2C286&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQzdWSjJUNkFONkYmZW5jcnlwdGVkSWQ9QTAzNzcxMTAxNklWRExUSTVJTjY5JmVuY3J5cHRlZEFkSWQ9QTA0Njg1MDcxVERaV0c2UDhNM1dRJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)
-
-* Price - 429
-
 * [boAt Indestructible 3.5mm Male to Male Gold Plated Connectors, Metallic Aux Audio Cable, 1.5 Meter (5 Feet) -(Silver Metallic)](https://www.amazon.in/Boat-Indestructible-Plated-Connectors-Metallic/dp/B00SH5JAIS/ref=sr_1_3?dchild=1&keywords=male+aux+to+male+aux&qid=1618899639&sr=8-3)
 
 * Price - 299
+
+## Keyboard
+
+* [Evo Fox (by Amkette) Fireblade Gaming Wired Keyboard with LED Backlit, 19 Anti-Ghosting Keys and Windows Lock Key (TKL) (Black)](https://www.amazon.in/AMKETTE-Amkette-Fireblade-Keyboard-Anti-Ghosting/dp/B085366TJW/ref=sr_1_1?dchild=1&keywords=evo+fox+keyboard&qid=1619323204&sr=8-1)
+
+* Price - 999
+
+## Microphone (Optional)
+
+* [Lapras Metal mic 3.5mm /Clip Microphone for YouTube,Collar Mike,Voice Recording](https://www.amazon.in/dp/B08D6LMQM8/?coliid=I3D2T2A3GWV5MJ&colid=3JIFM6UU1EC85&psc=0&ref_=lv_ov_lig_dp_it)
+
+* Price - 260
