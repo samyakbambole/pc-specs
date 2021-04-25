@@ -44,9 +44,9 @@
 
 ## Graphics Card
 
-* [Gigabyte GeForce GT 710 2GB Graphic Cards Support PCI Express 2.0 X8 Bus Interface. Graphic Cards GV-N710D5-2GL](https://www.amazon.in/Gigabyte-GeForce-Graphic-Interface-GV-N710D5-2GL/dp/B073SWN4ZM/ref=sr_1_1?dchild=1&keywords=gigabyte+geforce+gt&qid=1615787879&sr=8-1)
+* [Zotac GT 710 2GB 64BIT DDR3 PCI-E Graphics Card](https://www.amazon.in/Zotac-64BIT-DDR3-PCI-Graphics/dp/B07NSPNL31/ref=sr_1_2?dchild=1&keywords=zotac+GT+710&qid=1619334769&sr=8-2)
 
-* Price - 3,699
+* Price - 3,599
 
 ## WiFi Adapter
 
