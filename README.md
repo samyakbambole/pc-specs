@@ -24,6 +24,10 @@
 
 * Price - 5,002
 
+* [Western Digital WD SN550 1TB NVMe Internal SSD - 2400MB/s R, 1950MB/s W (WDS100T2B0C, Blue)](https://www.amazon.in/Western-Digital-SN550-Internal-WDS100T2B0C/dp/B07YFFX5MD/ref=sr_1_3?dchild=1&keywords=1TB+ssd+nvme&qid=1619503386&sr=8-3)
+
+* Price - 8,699
+
 ## Mouse
 
 * [Logitech G102 Light Sync Gaming Mouse with Customizable RGB Lighting, 6 Programmable Buttons, Gaming Grade Sensor, 8 k dpi Tracking,16.8mn Color, Light Weight (Black)](https://www.amazon.in/Logitech-G102-Customizable-Lighting-Programmable/dp/B08LT9BMPP/ref=sr_1_1_sspa?crid=1KJRRA4BPPKDU&dchild=1&keywords=logitech+g102&qid=1615557309&sprefix=asus+wifi+%2Caps%2C393&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUhRUDRSWjY4UDE1JmVuY3J5cHRlZElkPUEwOTM5ODY0MzcxTjBKWEdRUEUwRyZlbmNyeXB0ZWRBZElkPUEwNTU4MjQyM0RVNDg0UlFLWEVNRCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
