@@ -18,7 +18,7 @@
 
 * Price - 4,084 x 2 = 8,168
 
-* Important Notice - In order to run your memory at rated speed of 3200 Mhz, you need to go to your BIOS and set the memory XMP profile to Profile 1.
+* Important - Run on 2400MHz
 
 ## SSD
 
