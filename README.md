@@ -16,7 +16,9 @@
 
 * [HyperX Fury 8GB 3200MHz DDR4 CL16 DIMM 1Rx8  Black XMP Desktop Memory](https://www.amazon.in/HyperX-3200MHz-Desktop-Memory-HX432C16FB3/dp/B07WJJ9CNG/ref=sr_1_1?crid=1KJRRA4BPPKDU&dchild=1&keywords=hyperx+fury+ddr4&qid=1615553448&sprefix=asus+wifi+%2Caps%2C393&sr=8-1)
 
-* Price - 4,084
+* Price - 4,084 x 2 = 8,168
+
+* Important Notice - In order to run your memory at rated speed of 3200 Mhz, you need to go to your BIOS and set the memory XMP profile to Profile 1.
 
 ## SSD
 
