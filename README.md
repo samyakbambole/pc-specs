@@ -93,3 +93,9 @@
 * [Lapras Metal mic 3.5mm /Clip Microphone for YouTube,Collar Mike,Voice Recording](https://www.amazon.in/dp/B08D6LMQM8/?coliid=I3D2T2A3GWV5MJ&colid=3JIFM6UU1EC85&psc=0&ref_=lv_ov_lig_dp_it)
 
 * Price - 260
+
+## CPU Cooler 
+
+* [Ant Esports ICE-C612 with RGB LED PWM CPU Cooler/Fan Support Intel LGA775,LGA1200, LGA1150, LGA1151, LGA1155, LGA1156, LGA2066, LGA2011-v3, LGA2011, LGA1366 and AMD FM1, FM2, FM2+, AM2, AM2+, AM3, AM3+,AM4](https://www.amazon.in/dp/B084G3MJPZ/?coliid=IXQFSWCES8LDU&colid=3JIFM6UU1EC85&psc=1&ref_=lv_ov_lig_dp_it)
+
+* Price - 1,421
