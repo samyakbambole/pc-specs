@@ -109,3 +109,15 @@
 * Price - 2,099
 
 * Important - Install on SATA2 Port on motherboard because if a M.2 ssd is in use, SATA1 port is disabled.
+
+## USB Flash Drive (For Windows Installation Media)
+
+* [SanDisk Ultra CZ48 16GB USB 3.0 Pen Drive (Black)](https://www.amazon.in/SanDisk-Ultra-CZ48-Drive-Black/dp/B00KZIXSP6/ref=sr_1_3?dchild=1&keywords=USB+drive+16GB&qid=1619873164&sr=8-3)
+
+* Price - 329
+
+## Screwdriver Set
+
+* [THEMISTO 27 in 1 Precision Screwdriver Set Multi Pocket Repair Tool Kit for Mobiles, Laptops, Electronics](https://www.amazon.in/dp/B07NY2WXPH/ref=cm_sw_r_wa_apa_glc_fabc_BK1VP0CVETMESD6S3B1T)
+
+* Price - 267
