@@ -20,7 +20,7 @@
 
 * Important - Run on 2400MHz
 
-## SSD
+## SSD (M.2 NVMe)
 
 * [Western Digital WD SN550 500GB NVMe Internal SSD - 2400MB/s R, 1750MB/s W, (WDS500G2B0C, Blue)](https://www.amazon.in/Western-Digital-SN550-Internal-WDS500G2B0C/dp/B07YFF3JCN/ref=sr_1_1_sspa?crid=3IWJNGG0JPLIX&dchild=1&keywords=m.2+ssd+1tb&qid=1615537219&sprefix=m.2+%2Caps%2C376&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRTQ4WTlLQ0dEM0U4JmVuY3J5cHRlZElkPUEwODM2MjU0M1RVTTZPV1JROVZLNCZlbmNyeXB0ZWRBZElkPUEwMTI5OTIxM0RDMUZTVkYxQzFZNCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
@@ -99,3 +99,9 @@
 * [Ant Esports ICE-C612 with RGB LED PWM CPU Cooler/Fan Support Intel LGA775,LGA1200, LGA1150, LGA1151, LGA1155, LGA1156, LGA2066, LGA2011-v3, LGA2011, LGA1366 and AMD FM1, FM2, FM2+, AM2, AM2+, AM3, AM3+,AM4](https://www.amazon.in/dp/B084G3MJPZ/?coliid=IXQFSWCES8LDU&colid=3JIFM6UU1EC85&psc=1&ref_=lv_ov_lig_dp_it)
 
 * Price - 1,421
+
+## Backup SSD (SATA)
+
+* [Crucial BX500 120GB 3D NAND SATA 2.5-inch SSD (CT120BX500SSD1)](https://www.amazon.in/Crucial-BX500-120GB-2-5-inch-CT120BX500SSD1/dp/B07G3KRZBY/ref=sr_1_2?dchild=1&keywords=crucial+sata+ssd+120gb&qid=1619862405&sr=8-2)
+
+* Price - 2,099
