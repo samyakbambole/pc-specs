@@ -22,7 +22,7 @@
 
 * Price - 4149 x 2 = 8289
 
-* Important - Run on 2400MHz
+* Important - Run on 2666MHz
 
 ## SSD (M.2 NVMe)
 
