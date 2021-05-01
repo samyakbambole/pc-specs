@@ -22,10 +22,6 @@
 
 ## SSD (M.2 NVMe)
 
-* [Western Digital WD SN550 500GB NVMe Internal SSD - 2400MB/s R, 1750MB/s W, (WDS500G2B0C, Blue)](https://www.amazon.in/Western-Digital-SN550-Internal-WDS500G2B0C/dp/B07YFF3JCN/ref=sr_1_1_sspa?crid=3IWJNGG0JPLIX&dchild=1&keywords=m.2+ssd+1tb&qid=1615537219&sprefix=m.2+%2Caps%2C376&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRTQ4WTlLQ0dEM0U4JmVuY3J5cHRlZElkPUEwODM2MjU0M1RVTTZPV1JROVZLNCZlbmNyeXB0ZWRBZElkPUEwMTI5OTIxM0RDMUZTVkYxQzFZNCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
-
-* Price - 5,002
-
 * [Western Digital WD SN550 1TB NVMe Internal SSD - 2400MB/s R, 1950MB/s W (WDS100T2B0C, Blue)](https://www.amazon.in/Western-Digital-SN550-Internal-WDS100T2B0C/dp/B07YFFX5MD/ref=sr_1_3?dchild=1&keywords=1TB+ssd+nvme&qid=1619503386&sr=8-3)
 
 * Price - 8,699
@@ -54,21 +50,23 @@
 
 * Price - 3,599
 
+* Important - PCIEx16 slot on motherboard. 
+
 ## WiFi Adapter
 
 * [TP-Link TL-WN781ND 150Mbps Wireless N PCI Express Adapter | 2dBi Detachable Omni Directional (RP-SMA) | Compatible with Windows 8.1/8/ 7/ Vista/XP (32/64bits)](https://www.amazon.in/TP-Link-TL-WN781ND-150Mbps-Wireless-Express/dp/B0036AFAEW?crid=24SF5PT2MJCG9&dchild=1&keywords=tp%2Blink%2Bwifi%2Badapter&qid=1612690845&sprefix=tp%2Blink,aps,318&sr=8-6&th=1&linkCode=sl1&tag=sarthak025-21&linkId=943147b53e1b15a44c78d6e8ee4edaf1&language=en_IN&ref_=as_li_ss_tl)
 
 * Price - 549
 
+* Important - PCIEx1 Slot below graphics card on motherboard
+
 ## PSU
-
-* [Antec VP450P Plus 450 Watt Power Supply 85% efficient I 80 Plus 230V Standard Certified](https://www.amazon.in/Antec-VP450P-Plus-efficient-Certified/dp/B00006HS81?crid=33VTWGLDD75GM&dchild=1&keywords=antec+450+watt+power+supply&qid=1614147706&sprefix=Antec+,aps,495&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQldCNU45U1BVQUdFJmVuY3J5cHRlZElkPUEwMjM0MjE3MUo4VTZVVkpOUUtXRCZlbmNyeXB0ZWRBZElkPUEwMzk5MTg4MkQ4QkJGUjdXR0Q5OCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=sl1&tag=shadabamazona-21&linkId=be449d5ad278a8388d66eb4bfd83eacb&ref_=as_li_ss_tl)
-
-* Price - 2,570
 
 * [Cooler Master MWE 550 Bronze V2 230v, 80 Plus Bronze Certified, Non-Modular Power Supply – Black](https://www.amazon.in/Cooler-Master-Bronze-Certified-Non-Modular/dp/B08H5QR9FL/ref=sr_1_4?dchild=1&m=A15QBXMPB6G12C&marketplaceID=A21TJRUUN4KGV&qid=1618909774&s=merchant-items&sr=1-4)
 
 * Price - 4,099
+
+* Important - Proper Cable management to be done. 
 
 ## HDMI Cable
 
@@ -105,3 +103,5 @@
 * [Crucial BX500 120GB 3D NAND SATA 2.5-inch SSD (CT120BX500SSD1)](https://www.amazon.in/Crucial-BX500-120GB-2-5-inch-CT120BX500SSD1/dp/B07G3KRZBY/ref=sr_1_2?dchild=1&keywords=crucial+sata+ssd+120gb&qid=1619862405&sr=8-2)
 
 * Price - 2,099
+
+* Important - Install on SATA2 Port on motherboard because if a M.2 ssd is in use, SATA1 port is disabled.
