@@ -14,10 +14,6 @@
 
 ## RAM 
 
-* [HyperX Fury 8GB 3200MHz DDR4 CL16 DIMM 1Rx8  Black XMP Desktop Memory](https://www.amazon.in/HyperX-3200MHz-Desktop-Memory-HX432C16FB3/dp/B07WJJ9CNG/ref=sr_1_1?crid=1KJRRA4BPPKDU&dchild=1&keywords=hyperx+fury+ddr4&qid=1615553448&sprefix=asus+wifi+%2Caps%2C393&sr=8-1)
-
-* Price - 4,084 x 2 = 8,168
-
 * [HyperX Fury 8GB 2666MHz DDR4 CL16 DIMM 1Rx8 Black XMP Desktop Memory (HX426C16FB3/8)](https://www.amazon.in/HyperX-2666MHz-Desktop-Memory-HX426C16FB3/dp/B07WD5VKTS/ref=sr_1_2?dchild=1&keywords=2666mhz+ram+8gb&qid=1619866778&sr=8-2)
 
 * Price - 4149 x 2 = 8289
