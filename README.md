@@ -22,9 +22,15 @@
 
 ## SSD (M.2 NVMe)
 
-* [Western Digital WD SN550 1TB NVMe Internal SSD - 2400MB/s R, 1950MB/s W (WDS100T2B0C, Blue)](https://www.amazon.in/Western-Digital-SN550-Internal-WDS100T2B0C/dp/B07YFFX5MD/ref=sr_1_3?dchild=1&keywords=1TB+ssd+nvme&qid=1619503386&sr=8-3)
+* [Western Digital WD SN550 250GB NVMe Internal SSD - 2400MB/s R, 950MB/s W, (WDS250G2B0C, Blue)](https://www.amazon.in/Western-Digital-SN550-Internal-WDS250G2B0C/dp/B07YFF8879/ref=sr_1_5?crid=3SDVUJJB0SRGR&dchild=1&keywords=250gb+nvme+ssd&qid=1621315106&sprefix=evo+fox%2Caps%2C1533&sr=8-5)
 
-* Price - 8,699
+* Price - 5,299
+
+## HDD (SATA)
+
+* [Seagate BarraCuda 1 TB Internal Hard Drive HDD – 3.5 Inch SATA 6 Gb/s 7200 RPM 64 MB Cache for Computer Desktop PC (ST1000DM010)](https://www.amazon.in/Seagate-BarraCuda-ST1000DM010-Desktop-Latest/dp/B01LNJBA2I/ref=sr_1_2?crid=3SDVUJJB0SRGR&dchild=1&keywords=1tb+hdd+internal&qid=1621315098&sprefix=evo+fox%2Caps%2C1533&sr=8-2)
+
+* Price - 3,099
 
 ## Mouse
 
@@ -97,14 +103,6 @@
 * [Ant Esports ICE-C612 with RGB LED PWM CPU Cooler/Fan Support Intel LGA775,LGA1200, LGA1150, LGA1151, LGA1155, LGA1156, LGA2066, LGA2011-v3, LGA2011, LGA1366 and AMD FM1, FM2, FM2+, AM2, AM2+, AM3, AM3+,AM4](https://www.amazon.in/dp/B084G3MJPZ/?coliid=IXQFSWCES8LDU&colid=3JIFM6UU1EC85&psc=1&ref_=lv_ov_lig_dp_it)
 
 * Price - 1,421
-
-## Backup SSD (SATA)
-
-* [Crucial BX500 120GB 3D NAND SATA 2.5-inch SSD (CT120BX500SSD1)](https://www.amazon.in/Crucial-BX500-120GB-2-5-inch-CT120BX500SSD1/dp/B07G3KRZBY/ref=sr_1_2?dchild=1&keywords=crucial+sata+ssd+120gb&qid=1619862405&sr=8-2)
-
-* Price - 2,099
-
-* Important - Install on SATA2 Port on motherboard because if a M.2 ssd is in use, SATA1 port is disabled.
 
 ## USB Flash Drive (For Windows Installation Media)
 
